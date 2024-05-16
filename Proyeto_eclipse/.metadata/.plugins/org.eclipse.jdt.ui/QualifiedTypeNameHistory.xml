@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="semana_06.clases.Celular"/>
+<fullyQualifiedTypeName name="javax.sql.rowset.JoinRowSet"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="semana_06.clases.Pelota"/>
+<fullyQualifiedTypeName name="ec_02.clases.Caja"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="ec_02.clases.Desarrollador"/>
+<fullyQualifiedTypeName name="semana_07.clases.Estudiante"/>
+<fullyQualifiedTypeName name="java.util.IllegalFormatCodePointException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="semana_09.clases.PersonaAdulta"/>
+<fullyQualifiedTypeName name="semana_09.clases.Operaciones"/>
+<fullyQualifiedTypeName name="semana_09.clases.Cliente"/>
+<fullyQualifiedTypeName name="Arreglos.ArregloEstudiantes"/>
+<fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+<fullyQualifiedTypeName name="semana_09.clases.Estudiante"/>
+<fullyQualifiedTypeName name="EVC3.arreglos.ArregloAutos"/>
+<fullyQualifiedTypeName name="EVC3.clases.Auto"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="EVC3.clases.Estudiante"/>
+<fullyQualifiedTypeName name="EVC3.clases.Trabajador"/>
+<fullyQualifiedTypeName name="EVC3_hijos.Colaborador"/>
+<fullyQualifiedTypeName name="EVC3_hijos.Locador"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="ef.entidad.Analista"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="ef.entidad.AnalistaSenior"/>
+<fullyQualifiedTypeName name="ef.entidad.AnalistaJunior"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Appendable"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<moveEntry
+		id="org.eclipse.wb.swing.components javax.swing.JLabel"
+		category="org.eclipse.wb.swing.components"/>
+	<moveEntry
+		id="org.eclipse.wb.swing.components javax.swing.JSpinner"
+		category="org.eclipse.wb.swing.components"
+		nextEntry="org.eclipse.wb.swing.components javax.swing.JTable"/>
+	<moveEntry
+		id="org.eclipse.wb.swing.components javax.swing.JList"
+		category="org.eclipse.wb.swing.components"
+		nextEntry="org.eclipse.wb.swing.components javax.swing.JTable"/>
+	<moveEntry
+		id="org.eclipse.wb.swing.layouts javax.swing.SpringLayout"
+		category="org.eclipse.wb.swing.layouts"/>
+</commands>
